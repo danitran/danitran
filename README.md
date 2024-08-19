@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tai Tran</h1>
 <p align="center">
   <h3 align="center"> I'm a student of HUFLIT University in Vietnam 🇻🇳  </h3>
+  <h3 align="center"> and Metropolia University in Finland 🇫🇮   </h3>
 </p>
 
 
