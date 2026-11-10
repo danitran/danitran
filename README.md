@@ -1,50 +1,38 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Tai Tran</h1>
-<p align="center">
-  <h3 align="center"> I'm a student of HUFLIT University in Vietnam 🇻🇳  </h3>
-  <h3 align="center"> and Metropolia University in Finland 🇫🇮   </h3>
-</p>
+# Hi, I'm Dani Tran 👋
+
+**IT Support Technician** — end-user support · Windows · macOS · Microsoft 365 · DNS/DHCP/VPN<br>
+Software Development student at **Bow Valley College** · Calgary, AB · English / Vietnamese
+
+[LinkedIn](https://www.linkedin.com/in/taitrandani/) · [danitrann04@gmail.com](mailto:danitrann04@gmail.com)
+
+## About me
+
+- 🛠️ I provide part-time IT and web support for small businesses in Calgary: business email and user accounts, MFA and password resets, domains and DNS, and websites.
+- 💬 I explain fixes in plain English or Vietnamese and, when an issue sits with a vendor, escalate it with logs and the steps I've already tried.
+- 🎓 Software Development Diploma at Bow Valley College, graduating April 2027 (object-oriented programming, databases, web development, enterprise and cloud computing). Previously studied at HUFLIT (Vietnam) and Metropolia University of Applied Sciences (Finland).
+- 📚 Studying for CompTIA A+ (220-1201 and 220-1202).
+- 🤝 Open to IT Support and Help Desk roles in Calgary: part-time now, full-time from May 2027.
+
+## Projects
 
 
-<br />
 
-## 📫 How to reach me:
+### [Connect Four](https://github.com/danitran/OOP_PROJECT_TAITRAN)
+`C#` `.NET 10`<br>
+Console game for two players, or one player against the computer, which takes a winning move, blocks yours and favours the centre. Object-oriented design: an abstract `Player` class with human and computer subclasses, plus separate board, view and game-controller classes.
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+### [Dani Fog Bleu](https://github.com/danitran/danifogbleu)
+`HTML` `CSS`<br>
+Multi-page website for a barber shop: home, products and booking pages.
 
-<p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/TranDangNgocTaiii" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/danitran" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:danitrann04@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
+## Toolbox
 
-## Skills:
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=windows,apple,powershell,bash,python,cs,javascript,html,css,postgresql,wordpress,nextjs,git,github&perline=14" alt="Windows, macOS, PowerShell, Bash, Python, C#, JavaScript, HTML, CSS, PostgreSQL, WordPress, Next.js, Git, GitHub" /></p>
 
-
-<!---
-danitran/danitran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Area | Skills |
+| --- | --- |
+| **Operating systems & devices** | Windows 10/11 (setup, updates, user profiles, drivers, printers) · macOS (setup, accounts, Wi-Fi, permissions) · iOS/Android email and authenticator apps |
+| **Microsoft 365 & identity** | Exchange Online and Outlook · Teams · OneDrive and SharePoint permissions · Entra ID users and groups · licensing · MFA enrolment and resets · password resets · Google Workspace |
+| **Networking** | DNS (A, CNAME, MX, TXT; SPF, DKIM, DMARC) · DHCP scopes and reservations · TCP/IP · Wi-Fi · WireGuard VPN |
+| **Support & tools** | Remote support (Quick Assist, AnyDesk) · ticket notes and knowledge-base articles · PowerShell and Bash · ipconfig, nslookup, ping, tracert |
+| **Web & development** | HTML · CSS · JavaScript · C# · Python · SQL (PostgreSQL) · WordPress · Next.js · Git/GitHub |
