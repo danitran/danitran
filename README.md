@@ -3,7 +3,7 @@
 **IT Support Technician** — end-user support · Windows · macOS · Microsoft 365 · DNS/DHCP/VPN<br>
 Software Development student at **Bow Valley College** · Calgary, AB · English / Vietnamese
 
-[LinkedIn](https://www.linkedin.com/in/taitrandani/) · [danitrann04@gmail.com](mailto:danitrann04@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/taitrandani/) · [danitrann04@gmail.com](mailto:tai204.ca@gmail.com)
 
 ## About me
 
